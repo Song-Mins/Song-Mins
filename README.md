@@ -1,5 +1,3 @@
-</br>
-
 <div align="center">
   <h1>📚 My Skills</h2>
 </div>
